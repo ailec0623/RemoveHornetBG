@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2127207216
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: new_hornet
+      Dependencies: {}

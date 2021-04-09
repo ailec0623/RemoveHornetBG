@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1350045025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 000230f514e8c4f45117b04f6f0bd8f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scene/Scenes/Gods_Glory/Bosses/New_hornet.unity
+Dependencies: []
